@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0B062272-4A20-4325-96C1-C7202E473E16}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/Repositories/SqlStudentRepository.cs">
+    <Files>
+      <File FileName="api/Controllers/StudentsController.cs" Line="33" Column="10" />
+      <File FileName="api/Repositories/IStudentRepository.cs" Line="8" Column="42" />
+      <File FileName="api/Repositories/SqlStudentRepository.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api" expanded="True">
+            <Node name="api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataModels" expanded="True" />
+              <Node name="DomainModels" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="SqlStudentRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
